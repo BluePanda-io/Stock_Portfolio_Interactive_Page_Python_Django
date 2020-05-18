@@ -1,21 +1,17 @@
-# Image Processing Masks-Convolution
+# Stock Portfolio Interactive Page - Python Django
 
-Developing from Scratch Filters that change Images and apply them via Convolution With the purpose to Uderstand the Basics of Image Processing - Originally developed 04/05/2018
+Building a Dynamic Page with Django and Python that shows, Stock Portfolio using an API for Data Collection - Originally developed 10/10/2019
 
 
 
 ## In this project it was developed 
-1. A function 
+1. Interactive web page with Django
+2. DataBase and User Base
+3. API Connection for the collection of the stock data
 
 ## Results of the Project 
-<img src="Images/1_GrayScaleAndRGBtoBluredImages.png" width="600">
+<img src="Images/mainPage.png" width="800">
+<img src="Images/stockPortfolioPage.png" width="800">
 
 ## What I learned from this Project
-
-## What was the project difficulties 
-
-## My solutions to the difficulties
-
-## Notable Features
-
-## Technology Used 
+The main goal is to get familiar with the idea of web-development and in general, understand the capabilities of building software online
